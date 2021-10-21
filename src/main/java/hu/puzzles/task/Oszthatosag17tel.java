@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 /**
  * 1. oldal, 2021. 1. korcsoport
  * Oszthatóság 17-el
+ * kesz
  */
 public class Oszthatosag17tel {
 
